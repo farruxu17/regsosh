@@ -1,0 +1,15 @@
+.cntr{margin-top: 50px;}
+.btn{border-radius: 10%;}
+.btn-warning{padding: 3px 5px 3px 5px ;}
+h5{font-size: 12px;}
+.btn-danger{padding: 15px;}
+.info{
+    display: flex;
+    justify-content: center;
+    background: #f3f3f5;
+    flex-direction: column;
+    align-items: center;
+}
+.info a , .fa-copyright{
+    color: #cccccc;
+}
